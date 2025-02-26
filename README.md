@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jonas
-- 👀 I’m interested in coding,anime,movies....
+- 👀 I’m interested in coding,chess,anime,movies....
 - 🌱 I’m currently learning computer sciece
+  
   
 
 
