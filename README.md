@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonas
-- 👀 I’m interested in coding,chess,anime,movies....
+- ✨ I love binging animes and movies 
 - 🌱 I’m currently learning computer sciece
   
   
