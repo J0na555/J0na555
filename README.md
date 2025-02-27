@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonas
+- 👋 Hi, I’m Yonas
 - ✨ I love binging animes and movies 
 - 🌱 I’m currently learning computer sciece
   
