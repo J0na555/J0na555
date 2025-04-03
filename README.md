@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yonas (you can call me yoni).
+- 👋 Hi, I’m Yonas.
 - ✨ I love binging animes and movies.
 - 🌱 I’m currently learning computer sciece
   
