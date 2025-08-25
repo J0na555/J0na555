@@ -57,10 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j0na555&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=J0na555&theme=radical" alt="GitHub Streak" />
-</p>
-
 
 ## 🎯 Goals for 2025
 
