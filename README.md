@@ -1,10 +1,28 @@
 # 👋 Hi, I'm Yonas!
 
-## 📊 GitHub Stats
+
+
+
+## 🚀 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=3rd+Yr+CS+Student+%7C+Fullstack+Explorer;Backend+Lover+%7C+Arch+Linux+Shinobi+%7C+Anime+%26+Code" alt="Typing SVG" />
 </p>
+
+- 🎓 3rd-year Computer Science student passionate about backend development
+- 🐧 Arch Linux shinobi, crafting minimalist systems with `pacman` and vim
+- 🌟 Exploring full-stack development with Django and React, inspired by the teamwork of the Survey Corps
+- 🎨 Anime lover (Attack on Titan & Code Geass are my jams) and clean code advocate
+- 📍 Based in Ethiopia, building projects with global impact like a true Eldian coder
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/50/ee/7a/50ee7aac77b8fa3073b50d2f6b2ce3fb.jpg" alt="Lelouch Coding" width="150" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 
 <p align="center">
   💻 Backend Developer  | Building scalable systems with the precision of a Titan
@@ -32,21 +50,6 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" style="margin-right:15px;"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" style="margin-right:15px;"/></a>
   <a href="https://archlinux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux"/></a>
-</p>
-
-
----
-
-## 🚀 About Me
-
-- 🎓 3rd-year Computer Science student passionate about backend development
-- 🐧 Arch Linux shinobi, crafting minimalist systems with `pacman` and vim
-- 🌟 Exploring full-stack development with Django and React, inspired by the teamwork of the Survey Corps
-- 🎨 Anime lover (Attack on Titan & Code Geass are my jams) and clean code advocate
-- 📍 Based in Ethiopia, building projects with global impact like a true Eldian coder
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/50/ee/7a/50ee7aac77b8fa3073b50d2f6b2ce3fb.jpg" alt="Lelouch Coding" width="150" />
 </p>
 
 ---
