@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Wizard;Arch+Linux+Shinobi+%7C+Anime+Code+Alchemist;Slaying+bugs+like+a+Titan+with+clean+code" alt="Typing SVG" />
 </p>
+
 ## 🌟 About Me
 
 - 🎓 **3rd-year CS student** carving my path in the digital world, one commit at a time
