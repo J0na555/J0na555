@@ -72,7 +72,6 @@
 
 ## 🎯 2025 Mission Log
 
-- 🚀 Deploy **3 full-stack apps** with **Django** & **React** to conquer the digital realm
 - 📚 Master **clean code** and **design patterns** for scalable, Titan-proof systems
 - 💡 Contribute to **open-source projects**, strategizing impact like Lelouch Lamperouge
 - ⚔️ Slay **100 LeetCode problems** to sharpen my skills to Omni-Directional Mobility Gear precision
@@ -105,10 +104,6 @@
 </p>
 
 ---
-
-### 💥 What's New?
-- 🛠️ Working on a **Django-React e-commerce platform** inspired by anime marketplaces
-- 📖 Learning **system design** to architect apps with the precision of a Coordinate
 
 ### 🔗 Want to Collaborate?
 Drop a message on [Telegram](https://t.me/JONAZZ2) or [X](https://twitter.com/jinxedjonass), and let's build something epic together!
