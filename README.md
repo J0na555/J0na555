@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **3rd-year CS student** carving my path in the digital world, one commit at a time
+- 🎓 **CS student** carving my path in the digital world, one commit at a time
 - 💻 **Backend Sorcerer** crafting robust systems with **Django**, **Spring**, and **Node.js**
 - 🐧 **Arch Linux Shinobi** mastering minimalist setups with `pacman`, `vim`, and a touch of chaos
 - ⚔️ **Full-stack Explorer** wielding **React** and **Django** to build apps with Survey Corps-level teamwork
