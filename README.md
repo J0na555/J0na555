@@ -4,7 +4,9 @@
   <a href="https://wakatime.com/@dcd08b4d-15df-4039-89ac-0da8a02527b9">
     <img src="https://wakatime.com/badge/user/dcd08b4d-15df-4039-89ac-0da8a02527b9.svg?style=flat-square&color=13335c" alt="WakaTime Profile" style="margin: 10px;" />
   </a>
-</p>
+ <!-- <a href="https://committers.top/ethiopia">
+    <img src="https://user-badge.committers.top/ethiopia/j0na555.svg" alt="committers.top badge" style="margin: 10px;" />
+  </a></p> -->
 
 <p align="center">
   <i>"Tracking my code conquests, one Titan-slaying commit at a time!"</i>
